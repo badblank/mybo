@@ -1,0 +1,122 @@
+@media screen and (min-width:1200px){
+	.img_list_bg_single{
+			margin-left:0px !important;
+		}
+	.img_list_bg_double{
+		margin-right:0px !important;
+	}
+}
+
+.birds_describe_box{
+	max-width:1200px;
+	height:auto;
+}
+
+.birds_describe_box .col-md-8{
+	margin-top:40px;
+	padding:0px !important;
+}
+
+.birds_describe_box .col-md-4{
+	margin-top:40px;
+	padding:0px !important;
+}
+
+.birds_describe_title{
+	font-family: 'Neutraface 2 Display'; 
+	font-size:36px; 
+	color:#3f3f3f;
+	margin:0px;
+	padding:0px;
+	line-height:36px;
+}
+
+.birds_describe_detail{
+	font-family: 'Chanpagne & limousines'; 
+	font-size:24px; 
+	color:#3f3f3f;
+	margin:0px;
+	padding:0px;
+	line-height:24px;
+	padding-top:14px;
+}
+
+.birds_describe_more{
+	padding:0px;
+}
+
+.birds_describe_more img{
+	float:right;
+}
+
+.clear_float{
+	clear:both;
+	height:0;
+	overflow:hidden;
+}
+
+.split_line{
+	margin:80px 0px 20px 0px;
+}
+
+.content_list_box .row{
+	padding:0px;
+	margin:0px;
+}
+.img_list{
+	padding:0px;
+	height:520px;
+}
+
+
+
+.img_list_bg{
+	margin:0 auto;
+	margin-top:60px;
+	padding-top:50px;
+	height:460px;
+	max-width:330px;
+	background:url('../img/mybo-games/白色底图.png');
+}
+
+.img_list_picture{
+	margin:0 auto; 
+	max-width:270px;
+	height:250px;
+	background:url('../img/mybo-games/黄色缎带.png') bottom no-repeat; 
+	background-size:100% auto;
+	-moz-background-size:100% 100%;
+}
+
+.img_list_picture img{
+	margin:0 auto; 
+	max-width:230px;
+}
+
+.img_list_picture p{
+	margin:0 auto; 
+	max-height:60px; 
+	max-width:230px; 
+	line-height:60px; 
+	font-family: 'Chanpagne & limousines'; 
+	color:#fff;
+	text-align:center;
+	font-size:24px; 
+}
+
+.img_list_describe{
+	max-width:270px;
+	margin:0 auto;
+}
+
+.img_list_describe p{
+	padding-top:30px;
+	font-family: 'Chanpagne & limousines';
+	color:#3f3f3f;
+	text-align:center; 
+	font-size:24px;
+}
+
+.content_fill{
+	margin-top:80px;
+}

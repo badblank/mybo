@@ -1,9 +1,9 @@
 $(document).ready(function(){
 	//图片点击效果
-	$(".img_list").hover(function(){
-		$(this).css("margin-top","40px").css("margin-bottom","20px");
+	$(".img_list_bg").hover(function(){
+		$(this).animate({"margin-top":"40px"});
 		},function(){
-		$(this).css("margin-top","60px").css("margin-bottom","0px");
+		$(this).animate({"margin-top":"60px"});
 	});
 				
 				

@@ -1,0 +1,25 @@
+.footer{
+	width:100%;
+	height:auto;
+	background-image:url('../img/mybo_index/底部卡通图案.png');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	-moz-background-size:100% 100%;
+	overflow:hidden;
+}
+
+.footer_content{
+	text-align:center;
+	padding-top:180px;
+}
+
+.footer_content a{
+	margin:0px 10px;
+}
+
+.footer_content p{
+	color:#fff;
+	font-family: 'Chanpagne & limousines';
+	font-size:22px; 
+	padding:40px 0px 80px 0px
+}

@@ -1,0 +1,95 @@
+@font-face {
+	font-family: 'Neutraface 2 Display';
+	src: url('../bootstrap-3.3.7-dist/fonts/Neutraface2Display-Titling.otf');
+}
+@font-face {
+	font-family: 'Chanpagne & limousines';
+	src: url('../bootstrap-3.3.7-dist/fonts/Champagne & Limousines.ttf');
+}
+
+html{
+	overflow-x: hidden
+}
+
+body{
+	background:url('../img/mybo_index/底色.png');
+}
+
+.nav_box{
+	background:#ffc425;
+	height:76px;
+	margin:0 auto;
+	margin-bottom:20px;
+}
+.nav_box .nav_title{
+	max-width:1200px;
+	margin:0 auto;
+	padding:0px;
+}
+
+.nav_header{
+	margin:0 auto !important;
+}
+
+.nav_title_list{
+	margin:0 auto;
+	padding:0px;
+}
+
+.nav_title_list_index{
+	text-align:center;
+	margin:0px;
+}
+
+.nav_key{
+	height:76px;
+}
+
+.nav_key a{
+	padding:28px 20px 4px 20px !important;
+	font-family:'Neutraface 2 Display';
+	font-size:20px;
+	color:#fff !important;
+}
+
+.nav_key > div{
+	height:4px;
+	border-radius:2px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.nav_key > div > div{
+	height:4px;width:0px;
+	background:#fff;
+	border-radius:2px; 
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;"
+}
+
+.language_box{
+	height:76px;
+}
+
+.language{
+	padding:23px 0px 23px 60px;
+	font-family:'Neutraface 2 Display';
+	font-size:20px;
+	color:#fff;
+}
+
+.language span{
+	width:60px;
+	border:1px solid #fff;border-radius:15px;
+	display:inline-block; 
+	text-align:center; 
+	font-size:20px; 
+	font-Weight:100;
+}
+
+.content{
+	max-width:1200px;
+	margin:0 auto;
+	padding:0px;
+}
